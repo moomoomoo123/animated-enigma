@@ -1,0 +1,14 @@
+body
+{
+background-size: cover;
+}
+
+div{
+color: white;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+    border-style: dashed;
+    border-radius: 10;
+}
